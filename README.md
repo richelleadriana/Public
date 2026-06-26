@@ -27,9 +27,6 @@ Issues I ran int and how I solved them:
 
 1. Unable to find Extensions option in Cursor: I googled the issue and found a solution, which is to access the Open Editor Window in File. After clicking that, I can find the Extensions and install the needed ones.
 2. I didn't know how to open the Github repo in Cursor so I googled this issue, turns out I need to clone them. But to Clone them, I need to have Git Bash installed. I installed it and was able to finally see the clone option.
-3. There was an issue with Committing the changes into Github, an error appeared: "make sure you configure your [user.name](http://user.name) and [user.email](http://user.email) in git". I googled the issue and found that to fix the missing identity error in Git, I need to run the global config commands in the terminal to tell Git who I am, using this code:   
-*git config --global [user.name](http://user.name) "Your Name"*
-  *git config --global [user.email](http://user.email) "[your.email@example.com](mailto:your.email@example.com)"*  
-  After running this, I was able to commit the changes int Github.  
+3. There was an issue with Committing the changes into Github, an error appeared. I googled the issue and found that to fix the missing identity error in Git, I need to run the global config commands in the terminal to tell Git who I am. After running this, I was able to commit the changes int Github.  
 
 
