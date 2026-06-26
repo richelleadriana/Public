@@ -7,8 +7,8 @@ The Steps I completed:
     2. Sign up for Cursor  
     3. In Cursor, go to File -> Open Editor Window  
     4. In Cursor, go to View -> Extensions.  
-    5. Seach for Claude Code and install the extension.  
-    6. Search for Codex and install the extension.  
+    5. Seach for Claude Code and install the extension, and log into it.  
+    6. Search for Codex and install the extension, and log into it.  
     7. Go to browser and open [https://github.com/](https://github.com/) to create an account  
     8. Create a new repository in Github, name it, make it public and enable the 'Add README' toggle.  
     9.Go back to Cursor -> open the Primary Side Bar.  
