@@ -37,13 +37,13 @@
 - **Annotation:** Founder of Orainti and curator of SEOFOMO. She provides technical blueprints on how to audit, translate, and adapt legacy content spaces for multi-lingual AI Search layouts GEO.
 
 ### 7. Matt Diggity
-- **Channel/Profile:** [YouTube Channel](https://www.youtube.com/@DiggityMarketing)
+- **Channel/Profile:** [YouTube Channel](https://www.youtube.com/MattDiggity)
 - **Collection Date:** June 2026
 - **Focus:** Practical AI content testing, scaling scripts, and site-wide automation.
 - **Annotation:** Host of Diggity Marketing. He runs tests comparing purely AI-generated text, hybrid text, and human-written text, providing transparent data on traffic retention and indexing efficiency.
 
 ### 8. Craig Campbell
-- **Channel/Profile:** [YouTube Channel](https://www.youtube.com/@CraigCampbellSEO)
+- **Channel/Profile:** [YouTube Channel](https://www.youtube.com/channel/UCPeOzstGV1FB0cGSBg2piDg)
 - **Collection Date:** June 2026
 - **Focus:** AI content workflow engines and programmatic site generation.
 - **Annotation:** He breaks down the exact integration setups for high-volume content generators. He focuses heavily on bulk automation, scraping workflows, and raw operational efficiency.
