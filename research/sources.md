@@ -9,6 +9,7 @@
 
 ### 2. Eli Schwartz
 - **Channel/Profile:** [LinkedIn Profile](https://www.linkedin.com/in/schwartze/) / [Website](https://www.elischwartz.co/)
+- [Recent content](https://www.linkedin.com/in/schwartze/recent-activity/all/)
 - **Collection Date:** June 2026
 - **Focus:** Product-Led SEO and high-level strategic growth.
 - **Annotation:** Author of *Product-Led SEO*. He consults for major enterprise brands (WordPress, Shutterstock, Zendesk) and shares deep insights on why AI content must satisfy human user intent rather than just traditional keyword research parameters.
