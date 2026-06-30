@@ -43,14 +43,16 @@
 
 ### 7. Matt Diggity
 - **Channel/Profile:** [YouTube Channel](https://www.youtube.com/MattDiggity)
-- [Recent content](https://www.youtube.com/watch?v=fHuomy6gAOA)
+- [Recent content 1](https://www.youtube.com/watch?v=fHuomy6gAOA)
+- [Recent content 2](https://www.youtube.com/watch?v=f03ZfdtkMz)
 - **Collection Date:** June 2026
 - **Focus:** Practical AI content testing, scaling scripts, and site-wide automation.
 - **Annotation:** Host of Diggity Marketing. He runs tests comparing purely AI-generated text, hybrid text, and human-written text, providing transparent data on traffic retention and indexing efficiency.
 
 ### 8. Craig Campbell
 - **Channel/Profile:** [YouTube Channel](https://www.youtube.com/channel/UCPeOzstGV1FB0cGSBg2piDg)
-- [Recent content](https://www.youtube.com/watch?v=EzoxEBr13pY)
+- [Recent content 1](https://www.youtube.com/watch?v=EzoxEBr13pY)
+- [Recent content 2](https://www.youtube.com/watch?v=hyLFksiUFxc)
 - **Collection Date:** June 2026
 - **Focus:** AI content workflow engines and programmatic site generation.
 - **Annotation:** He breaks down the exact integration setups for high-volume content generators. He focuses heavily on bulk automation, scraping workflows, and raw operational efficiency.

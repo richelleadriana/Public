@@ -29,4 +29,34 @@ Issues I ran int and how I solved them:
 2. I didn't know how to open the Github repo in Cursor so I googled this issue, turns out I need to clone them. But to Clone them, I need to have Git Bash installed. I installed it and was able to finally see the clone option.
 3. There was an issue with Committing the changes into Github, an error appeared. I googled the issue and found that to fix the missing identity error in Git, I need to run the global config commands in the terminal to tell Git who I am. After running this, I was able to commit the changes int Github.  
 
+# AI SEO Research Repository
 
+## How Data Was Collected
+I used **Codex** to automate the process for both Youtube transcripts and Linkedin posts:
+
+### 1. LinkedIn Research Process
+1. I manually copied the raw, unformatted post text directly from the creators' Linkedin  recent content page.
+2. I fed this raw text into Codex and told it to clean up the messy social media spacing, remove extra emoji clutter, and organize multiple posts using clean headers.
+3. Codex saved the polished text into individual Markdown files inside my `research/linkedin-posts/` directory, naming each file after the expert.
+### 2. Youtube Transcript Process
+1. Here, Codex fetched raw transcripts using the `supadata.ai` API. I signed up and got a free key.
+2. Codex then cleaned up raw JSON data into clean plain text, removing timestamps.
+3. Codex automatically saved the output into individual .md files inside `research/youtube-transcripts/` using the video names as the file titles.
+4. Codex also included the original YouTube source link at the top of every file for traceability.
+
+---
+
+## Why I Chose Each Expert
+
+I chose these 10 individuals because they are real-world practitioners who share actual data and case studies rather than theories:
+
+1. **Jake Ward** – I chose him because he shares  blueprints on scaling thousands of high-traffic pages using AI templates.
+2. **Eli Schwartz** – I chose him because of his enterprise consulting background, which provides  insights on how to make AI content satisfy human intent rather than just keywords.
+3. **Kevin Indig** – I chose him because he specializes in enterprise SaaS growth and offers practical frameworks for integrating AI search optimization (GEO) into existing platforms.
+4. **Bernard Huang** – I chose him because, as the founder of Clearscope, he reveals exactly how to build content that matches modern AI semantic layers.
+5. **Lily Ray** – I chose her because she closely monitors Google's algorithmic changes and tracks how to configure AI generation tools to maintain quality.
+6. **Aleyda Solis** – I chose her because she provides technical, step-by-step blueprints on how to use content spaces for global, multi-lingual AI search layouts.
+7. **Matt Diggity** – I chose him because he runs split-tests comparing pure AI, hybrid, and human text, giving access to traffic retention and indexing data.
+8. **Craig Campbell** – I chose him because he breaks down the raw operational setups for high-volume content, focusing heavily on bulk automation tools and scraping workflows.
+9. **Marie Haynes** – I chose her because she maps out how search engines are evolving into semantic answer engines, helping me configure AI tools to align with modern algorithmic trust layers.
+10. **Ryan Law** – I chose him because his work at Ahrefs shows teams how to use LLMs as high-speed analytical writing assistants while keeping human creative direction in control.
